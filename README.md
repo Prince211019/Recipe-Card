@@ -33,7 +33,7 @@ The CSS is structured to ensure the app is responsive across different devices. 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/TenEplaysOfficial/Interactive-Recipe-Card.git
+   git clone https://github.com/Prince211019/Recipe-Card/blob/main/README.md
    ```
 2. Open `index.html` in a web browser.
 
